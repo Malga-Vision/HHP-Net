@@ -27,7 +27,7 @@ quantitative estimation of the level of interaction between people, starting fro
 
 To clone the repository:
 ```bash
-git clone https://github.com/cantarinigiorgio/HHP-Net
+git clone https://github.com/Malga-Vision/HHP-Net.git
 ```
 
 To install the requirements:
