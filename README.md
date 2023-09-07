@@ -4,7 +4,7 @@
 ![Library](https://img.shields.io/badge/library-Tensorflow-blue?logo=Tensorflow)
 ![GitHub license](https://img.shields.io/cocoapods/l/AFNetworking)
 
-This repository contains the cource code for the paper [**HHP-Net: A light Heteroscedastic neural network for Head Pose estimation with uncertainty [WACV22]**](https://arxiv.org/abs/2111.01440).
+This repository contains the cource code for the paper [**HHP-Net: A light Heteroscedastic neural network for Head Pose estimation with uncertainty [WACV22]**](https://openaccess.thecvf.com/content/WACV2022/papers/Cantarini_HHP-Net_A_Light_Heteroscedastic_Neural_Network_for_Head_Pose_Estimation_WACV_2022_paper.pdf).
 
 **Code Author: Giorgio Cantarini**
 
