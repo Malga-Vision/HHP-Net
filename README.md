@@ -118,13 +118,12 @@ python fast_inference_on_webcam.py [--detection-model PATH_MODEL_DETECTION] [--p
 If you find this code useful for your research, please use the following BibTeX entry.
 
 ``` 
-@misc{cantarini2021hhpnet,
-      title={HHP-Net: A light Heteroscedastic neural network for Head Pose estimation with uncertainty}, 
-      author={Giorgio Cantarini and Federico Figari Tomenotti and Nicoletta Noceti and Francesca Odone},
-      year={2021},
-      eprint={2111.01440},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@inproceedings{cantarini2022hhp,
+  title={HHP-Net: A light Heteroscedastic neural network for Head Pose estimation with uncertainty},
+  author={Cantarini, Giorgio and Tomenotti, Federico Figari and Noceti, Nicoletta and Odone, Francesca},
+  booktitle={Proceedings of the IEEE/CVF Winter Conference on applications of computer vision},
+  pages={3521--3530},
+  year={2022}
 }
 ```
 
